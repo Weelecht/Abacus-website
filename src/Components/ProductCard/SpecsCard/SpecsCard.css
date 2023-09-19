@@ -1,0 +1,11 @@
+
+.SpecCard-Container ul {
+   
+    padding-left: 0;
+}
+
+.SpecCard-Container ul li {
+    list-style-type: none;  
+    padding: 5px;
+
+}

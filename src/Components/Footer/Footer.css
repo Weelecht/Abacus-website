@@ -1,0 +1,7 @@
+.Footer-Container { 
+
+    border: 1px solid black;
+    
+    grid-row: 10/10;
+    grid-column: 1/13;
+}

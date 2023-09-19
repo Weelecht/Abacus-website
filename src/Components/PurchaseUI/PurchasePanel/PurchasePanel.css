@@ -1,0 +1,13 @@
+.PurchasePanel-Container {
+    border: solid 1px black;
+
+    display: flex;
+    
+
+    align-items: center;
+ 
+    grid-column: 3/4;
+    grid-row: 2/2;
+
+    gap: 1rem;
+}

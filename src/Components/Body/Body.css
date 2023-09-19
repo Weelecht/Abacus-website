@@ -1,0 +1,14 @@
+.Body-Container {
+
+    border: solid 1px black;
+    padding: 3.2rem;
+    gap: 1rem;
+    
+    grid-row: 2/10;
+    grid-column: 1/13;
+
+    display: grid;
+
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+}

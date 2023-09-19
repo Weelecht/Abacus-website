@@ -1,0 +1,8 @@
+.App-Container {
+  display: grid;
+  grid-template-rows: repeat(10,1fr);
+  grid-template-columns: repeat(12,1fr);
+  padding: 1rem;
+  gap: 1rem;
+}
+

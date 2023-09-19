@@ -1,0 +1,13 @@
+.Renderer-Container {
+
+    border: solid 1px black;
+    
+    grid-column: 1/2;
+    grid-row: 1/2;
+
+    
+
+    
+
+
+}

@@ -1,0 +1,15 @@
+.Header-Container {
+
+    border: solid 1px black;
+    padding-left: 1rem;
+    /* align-items: center; */
+    gap: 1rem;
+
+    display: flex;
+    flex-direction: row;
+
+
+    grid-row: 1/2;
+    grid-column: 1/13;
+
+}

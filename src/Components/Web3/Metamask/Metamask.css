@@ -1,0 +1,9 @@
+.Metamask-Container {
+    padding-right: 1rem;
+    align-self: center;
+    margin-left: auto;
+}
+
+.Metamask-Container button {
+    color: white;
+}

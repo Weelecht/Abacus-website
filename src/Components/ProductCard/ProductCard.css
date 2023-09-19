@@ -1,0 +1,15 @@
+.ProductCard-Container {
+
+    border: solid 1px black;
+    padding: 0.5rem;
+    grid-column: 3/4;
+    grid-row: -1/1;
+
+}
+
+.ProductCard-Description {
+
+    border: solid 1px black;
+
+
+}
